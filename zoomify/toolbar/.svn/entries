@@ -1,0 +1,41 @@
+8
+
+dir
+31
+svn://10.0.1.46/actionscript/trunk/zoomify/toolbar
+svn://10.0.1.46/actionscript
+
+
+
+2009-01-27T21:47:25.098374Z
+30
+paul
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d005450a-c4c8-4dde-9422-82ed6012b09e
+
+HighSlider.as
+file
+
+
+
+
+2009-01-27T23:57:09.000000Z
+cffd0f30d4ada237ab6124f7f7fa3b51
+2009-01-27T21:47:25.098374Z
+30
+paul
+has-props
+

@@ -1,0 +1,1 @@
+﻿package pdh.events{	import flash.events.Event;		public class ListEvent extends Event 	{				public static const ITEM_CLICK		:String = "item click";				public var parameters			:Object;				public function ListEvent(command:String, _param:Object = null) {			super(command, true);					parameters = _param;		}	}}

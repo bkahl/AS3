@@ -1,0 +1,54 @@
+8
+
+dir
+31
+svn://10.0.1.46/actionscript/trunk/org/papervision3d/core/io/exporters
+svn://10.0.1.46/actionscript
+
+
+
+2008-11-24T18:34:01.855922Z
+1
+paul
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d005450a-c4c8-4dde-9422-82ed6012b09e
+
+ExportCollada.as
+file
+
+
+
+
+2009-01-19T18:09:53.000000Z
+32393bc4ab4f7a24a0dbd4ac0b3ef0ed
+2008-11-24T18:34:01.855922Z
+1
+paul
+has-props
+
+ExportFileFormat.as
+file
+
+
+
+
+2009-01-19T18:09:53.000000Z
+153b5fed81ddb4c1218196372b0b4408
+2008-11-24T18:34:01.855922Z
+1
+paul
+has-props
+

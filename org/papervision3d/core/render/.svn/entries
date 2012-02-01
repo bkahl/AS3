@@ -1,0 +1,78 @@
+8
+
+dir
+31
+svn://10.0.1.46/actionscript/trunk/org/papervision3d/core/render
+svn://10.0.1.46/actionscript
+
+
+
+2008-11-24T18:34:01.855922Z
+1
+paul
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d005450a-c4c8-4dde-9422-82ed6012b09e
+
+IRenderEngine.as
+file
+
+
+
+
+2009-01-19T18:09:53.000000Z
+00012cb8f0f0fa10ff586f65a5b31aa3
+2008-11-24T18:34:01.855922Z
+1
+paul
+has-props
+
+filter
+dir
+
+project
+dir
+
+shader
+dir
+
+sort
+dir
+
+data
+dir
+
+AbstractRenderEngine.as
+file
+
+
+
+
+2009-01-19T18:09:53.000000Z
+72f37599545f43a2f24d2100fa66271e
+2008-11-24T18:34:01.855922Z
+1
+paul
+has-props
+
+draw
+dir
+
+command
+dir
+
+material
+dir
+

@@ -1,0 +1,1 @@
+﻿package pdh.graphics{		import flash.display.Sprite;		public class Depth	{						public static function setTop(target:Sprite):void		{			var total:uint = target.parent.numChildren;			var prevTop = target.parent.getChildAt(total - 1);      	    target.parent.swapChildren(target as Sprite, prevTop);		}							}	}

@@ -1,0 +1,40 @@
+8
+
+dir
+31
+svn://10.0.1.46/actionscript/trunk/pdh/shell
+svn://10.0.1.46/actionscript
+
+
+
+2008-12-01T22:23:05.167979Z
+2
+paul
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d005450a-c4c8-4dde-9422-82ed6012b09e
+
+events
+dir
+
+section
+dir
+
+bubble
+dir
+
+modal
+dir
+

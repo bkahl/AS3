@@ -1,0 +1,44 @@
+8
+
+dir
+31
+svn://10.0.1.46/actionscript/trunk/ws/tink
+svn://10.0.1.46/actionscript
+
+
+
+2009-01-13T19:49:32.340793Z
+23
+paul
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d005450a-c4c8-4dde-9422-82ed6012b09e
+
+display
+dir
+
+._.DS_Store
+file
+
+
+
+
+2009-01-19T18:09:54.000000Z
+5ecad39c470178e1b0ef93e534b60fda
+2008-12-09T13:35:28.370444Z
+6
+paul
+has-props
+

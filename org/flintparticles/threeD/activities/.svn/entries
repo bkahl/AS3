@@ -1,0 +1,54 @@
+8
+
+dir
+31
+svn://10.0.1.46/actionscript/trunk/org/flintparticles/threeD/activities
+svn://10.0.1.46/actionscript
+
+
+
+2008-12-31T22:17:16.085840Z
+14
+paul
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d005450a-c4c8-4dde-9422-82ed6012b09e
+
+MoveEmitter.as
+file
+
+
+
+
+2009-01-19T18:09:52.000000Z
+47608f56c0b07f51144af8c4e746cf66
+2008-12-31T22:17:16.085840Z
+14
+paul
+has-props
+
+RotateEmitter.as
+file
+
+
+
+
+2009-01-19T18:09:52.000000Z
+494120041c40c4351c71e18f79830df2
+2008-12-31T22:17:16.085840Z
+14
+paul
+has-props
+

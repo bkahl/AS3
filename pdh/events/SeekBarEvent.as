@@ -1,0 +1,1 @@
+﻿package pdh.events {	import flash.events.Event;		public class SeekBarEvent extends Event {		public static const UPDATE:String = "seek bar update";				public var parameters:Object		public function SeekBarEvent( _type:String, _value:Object ) {			super( _type );			parameters = _value;		}	}}

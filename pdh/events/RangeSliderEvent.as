@@ -1,0 +1,1 @@
+﻿package pdh.events {	import flash.events.Event;		public class RangeSliderEvent extends Event {		public static const UPDATE:String = "update";		public static const STOP_SLIDE:String = "stop slide";		public var range:Array;				public function RangeSliderEvent( _type:String, _range:Array = null ) {			super( _type );			range = _range;		}	}}

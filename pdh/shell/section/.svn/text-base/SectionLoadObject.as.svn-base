@@ -1,0 +1,1 @@
+﻿package pdh.shell.section{			public class SectionLoadObject	{				public var id:String;		public var file:String;		public var config:String;		public var section:String;				function SectionLoadObject(){}			}	}

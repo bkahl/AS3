@@ -1,0 +1,1 @@
+﻿package pdh.events{	import flash.events.Event;	public class MediaViewerEvent extends Event 	{				public static const LOADED		:String = "loaded";		public static const VISIBLE     :String = "vis";				public var parameters				:Object;				public function MediaViewerEvent(command:String, _param:Object = null) {			super(command, true);					parameters = _param;		}	}}

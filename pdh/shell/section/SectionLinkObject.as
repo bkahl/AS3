@@ -1,0 +1,1 @@
+﻿package pdh.shell.section{			public class SectionLinkObject	{						public var page:String;		public var subpage:String;				function SectionLinkObject(_page:String = null, _subpage:String = null)		{			page = _page;			subpage = _subpage;		}	}	}

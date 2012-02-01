@@ -1,0 +1,1 @@
+﻿package pdh.math{		public class MathExtra	{				public static function roundDecimal(val:Number, qty:int):Number		{			var f:Number = Math.pow(10, qty)			return Math.round(val*f)/f		}				public static function roundBy(val:Number, val2:Number = 0):Number 		{			return Math.round(val)		}		} // end class	}  // end package

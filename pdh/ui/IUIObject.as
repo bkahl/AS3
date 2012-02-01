@@ -1,0 +1,1 @@
+﻿package pdh.ui{		public interface IUIObject	{				function addListeners():void			function setSize(_w:Number, _h:Number):void 		function show():void 		function hide():void 			}	}

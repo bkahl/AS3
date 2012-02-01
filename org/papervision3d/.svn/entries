@@ -1,0 +1,68 @@
+8
+
+dir
+31
+svn://10.0.1.46/actionscript/trunk/org/papervision3d
+svn://10.0.1.46/actionscript
+
+
+
+2008-11-24T18:34:01.855922Z
+1
+paul
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d005450a-c4c8-4dde-9422-82ed6012b09e
+
+render
+dir
+
+scenes
+dir
+
+materials
+dir
+
+events
+dir
+
+core
+dir
+
+Papervision3D.as
+file
+
+
+
+
+2009-01-19T18:09:53.000000Z
+b81bcd248313746ffcf573b6553b9b51
+2008-11-24T18:34:01.855922Z
+1
+paul
+has-props
+
+objects
+dir
+
+lights
+dir
+
+view
+dir
+
+cameras
+dir
+

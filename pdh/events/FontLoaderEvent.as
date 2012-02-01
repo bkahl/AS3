@@ -1,0 +1,1 @@
+﻿package pdh.events {	import flash.events.Event;		public class FontLoaderEvent extends Event {		public static const LOADED:String = "fonts loaded";				public static const LOADING:String = "fonts loadeding";				public var parameters:Object		public function FontLoaderEvent( _type:String, _value:Object = null ) {			super( _type );			parameters = _value;		}	}}

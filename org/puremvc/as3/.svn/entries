@@ -1,0 +1,40 @@
+8
+
+dir
+31
+svn://10.0.1.46/actionscript/trunk/org/puremvc/as3
+svn://10.0.1.46/actionscript
+
+
+
+2009-01-14T19:32:07.893899Z
+25
+paul
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d005450a-c4c8-4dde-9422-82ed6012b09e
+
+patterns
+dir
+
+interfaces
+dir
+
+multicore
+dir
+
+core
+dir
+

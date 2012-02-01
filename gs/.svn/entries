@@ -1,0 +1,89 @@
+8
+
+dir
+31
+svn://10.0.1.46/actionscript/trunk/gs
+svn://10.0.1.46/actionscript
+
+
+
+2008-11-24T18:34:01.855922Z
+1
+paul
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d005450a-c4c8-4dde-9422-82ed6012b09e
+
+utils
+dir
+
+TweenLite.as
+file
+
+
+
+
+2009-01-19T18:09:54.000000Z
+59020790b881c1974386fb984ba0dee2
+2008-11-24T18:34:01.855922Z
+1
+paul
+has-props
+
+OverwriteManager.as
+file
+
+
+
+
+2009-01-19T18:09:54.000000Z
+3f21279ee0c4d21ca885e0d603466ef8
+2008-11-24T18:34:01.855922Z
+1
+paul
+has-props
+
+events
+dir
+
+easing
+dir
+
+TweenFilterLite.as
+file
+
+
+
+
+2009-01-19T18:09:54.000000Z
+af00b596245580ad7ba8ad1997b43353
+2008-11-24T18:34:01.855922Z
+1
+paul
+has-props
+
+TweenMax.as
+file
+
+
+
+
+2009-01-19T18:09:54.000000Z
+7b24b8d5b8640852ee72c32c452abb09
+2008-11-24T18:34:01.855922Z
+1
+paul
+has-props
+

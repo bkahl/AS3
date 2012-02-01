@@ -1,0 +1,1 @@
+﻿package pdh.shell.bubble{			public class BubbleObject	{				public var label:String;		public var screenX:Number;		public var screenY:Number;						function BubbleObject(_label:String,  _screenX:Number, _screenY:Number)		{			label = _label;			screenX = _screenX;			screenY = _screenY;		}	}	}

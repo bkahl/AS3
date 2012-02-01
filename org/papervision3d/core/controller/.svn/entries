@@ -1,0 +1,54 @@
+8
+
+dir
+31
+svn://10.0.1.46/actionscript/trunk/org/papervision3d/core/controller
+svn://10.0.1.46/actionscript
+
+
+
+2008-11-24T18:34:01.855922Z
+1
+paul
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d005450a-c4c8-4dde-9422-82ed6012b09e
+
+IObjectController.as
+file
+
+
+
+
+2009-01-19T18:09:53.000000Z
+f94f7461fa7ecf49d55507768cbfd85f
+2008-11-24T18:34:01.855922Z
+1
+paul
+has-props
+
+SkinController.as
+file
+
+
+
+
+2009-01-19T18:09:53.000000Z
+8ad1cae619fa46c4d07b4e6be92f4f28
+2008-11-24T18:34:01.855922Z
+1
+paul
+has-props
+

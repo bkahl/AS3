@@ -1,0 +1,73 @@
+8
+
+dir
+31
+svn://10.0.1.46/actionscript/trunk/org/flintparticles/threeD/papervision3d
+svn://10.0.1.46/actionscript
+
+
+
+2008-12-31T22:17:16.085840Z
+14
+paul
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d005450a-c4c8-4dde-9422-82ed6012b09e
+
+utils
+dir
+
+PV3DRenderer.as
+file
+
+
+
+
+2009-01-19T18:09:52.000000Z
+93d26ea7eb0b84b05ef412bf2681e501
+2008-12-31T22:17:16.085840Z
+14
+paul
+has-props
+
+initializers
+dir
+
+PV3DPixelRenderer.as
+file
+
+
+
+
+2009-01-19T18:09:52.000000Z
+fee1dd8f600ff683f1cc09737be7959e
+2008-12-31T22:17:16.085840Z
+14
+paul
+has-props
+
+PV3DParticleRenderer.as
+file
+
+
+
+
+2009-01-19T18:09:52.000000Z
+4522cf3345e223a4e3d50a54be3c94d2
+2008-12-31T22:17:16.085840Z
+14
+paul
+has-props
+

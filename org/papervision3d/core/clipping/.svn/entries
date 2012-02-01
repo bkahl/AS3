@@ -1,0 +1,57 @@
+8
+
+dir
+31
+svn://10.0.1.46/actionscript/trunk/org/papervision3d/core/clipping
+svn://10.0.1.46/actionscript
+
+
+
+2008-11-24T18:34:01.855922Z
+1
+paul
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d005450a-c4c8-4dde-9422-82ed6012b09e
+
+DefaultClipping.as
+file
+
+
+
+
+2009-01-19T18:09:53.000000Z
+9108c1c27e06fceab52dbf80f46713dc
+2008-11-24T18:34:01.855922Z
+1
+paul
+has-props
+
+draw
+dir
+
+FrustumClipping.as
+file
+
+
+
+
+2009-01-19T18:09:53.000000Z
+38ab75a1e9b79aa7dc16043a3e5c5aaa
+2008-11-24T18:34:01.855922Z
+1
+paul
+has-props
+

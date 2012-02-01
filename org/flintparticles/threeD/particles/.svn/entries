@@ -1,0 +1,54 @@
+8
+
+dir
+31
+svn://10.0.1.46/actionscript/trunk/org/flintparticles/threeD/particles
+svn://10.0.1.46/actionscript
+
+
+
+2008-12-31T22:17:16.085840Z
+14
+paul
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d005450a-c4c8-4dde-9422-82ed6012b09e
+
+Particle3D.as
+file
+
+
+
+
+2009-01-19T18:09:52.000000Z
+12ac1d508327f94c7cab32fe8acbdf5d
+2008-12-31T22:17:16.085840Z
+14
+paul
+has-props
+
+ParticleCreator3D.as
+file
+
+
+
+
+2009-01-19T18:09:52.000000Z
+7b7fe3362dc1bba9f29528bab728c8e3
+2008-12-31T22:17:16.085840Z
+14
+paul
+has-props
+

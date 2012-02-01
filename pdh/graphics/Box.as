@@ -1,0 +1,1 @@
+﻿package pdh.graphics{		import flash.display.Sprite;		public class Box extends Sprite	{						public function Box(w:Number, h:Number, color:Number = 0x000000, _alpha:Number = 1)		{			graphics.beginFill(color, _alpha);			graphics.drawRect(0,0,w,h);			graphics.endFill();					}				public function destroy():void 		{			graphics.clear();		}					}	}
